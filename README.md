@@ -1,4 +1,4 @@
-# Week_5_Challenge# Word Day Schedule ![license](https://img.shields.io/badge/license-MIT-green)
+# Word Day Schedule ![license](https://img.shields.io/badge/license-MIT-green)
 
 ## Table of Contents
   * [Description](#description)
